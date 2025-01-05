@@ -7,4 +7,9 @@ h2{
 .btn{
     color: blueviolet;
     border-radius: 10px;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+     
 }
